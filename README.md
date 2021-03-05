@@ -8,7 +8,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. D
 - Weekly Nerd 2
 - Weekly Nerd 3
 
-## Artikelen
+## Artikelen over relevante onderwerpen
 - Artikel 1
 - Artikel 2
 - Artikel 3
