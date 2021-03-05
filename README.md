@@ -13,4 +13,5 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. D
 - Artikel 2
 - Artikel 3
 
-
+## Motivatie voor het schrijven van de artikelen
+-
