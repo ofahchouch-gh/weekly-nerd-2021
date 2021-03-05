@@ -9,7 +9,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. D
 - Weekly Nerd 3
 
 ## Artikelen over relevante onderwerpen
-- [Artikel 1] JavaScript error & exception handling (https://github.com/ofahchouch-gh/weekly-nerd-2021/wiki/Artikel-%231)
+- [Artikel 1 - JavaScript error & exception handling](https://github.com/ofahchouch-gh/weekly-nerd-2021/wiki/Artikel-%231)
 - Artikel 2
 - Artikel 3
 
