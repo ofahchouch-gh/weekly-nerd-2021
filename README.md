@@ -4,7 +4,7 @@ Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Daarbij worden aantekeningen van de presentaties gemaakt en worden er artikelen geschreven die gaan over relevante onderwerpen.
 
 ## Weekly Nerd aantekeningen presentaties
-- [Weekly Nerd 1,2 & 3 with Dept & Label A, Build in Amsterdam & Mirabeau](https://github.com/ofahchouch-gh/weekly-nerd/wiki/Weekly-Nerds-%231,-2-&-3-with--Dept-&-Label-A,-Build-in-Amsterdam-and-Mirabeau)
+- [Weekly Nerd 1,2 & 3 met Dept & Label A, Build in Amsterdam & Triple en Mirabeau](https://github.com/ofahchouch-gh/weekly-nerd/wiki/Weekly-Nerds-%231,-2-&-3-with--Dept-&-Label-A,-Build-in-Amsterdam-&-Triple-and-Mirabeau)
 
 ## Artikelen over relevante onderwerpen
 - [Artikel 1 - Hoe werkt JavaScript nou?](https://github.com/ofahchouch-gh/weekly-nerd/wiki/%23Artikel-1---Hoe-werkt-JavaScript-nou-in-de-achtergrond%3F)
